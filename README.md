@@ -4,8 +4,8 @@ Code example to initialize and train the Multi-View Information Bottleneck (MIB)
 
 Requirements:
 * pytorch 1.1
+* torchvision
 * numpy
 * sklearn
 * tqdm
 * matplotlib
-* numpy
