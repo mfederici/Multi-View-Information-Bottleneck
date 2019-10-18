@@ -1,4 +1,4 @@
-# Multi-View Variational Bottleneck
+# Multi-View Information Bottleneck
 
 Code example to initialize and train the Multi-View Information Bottleneck (MIB) objective.
 
