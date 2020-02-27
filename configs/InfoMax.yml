@@ -1,0 +1,9 @@
+trainer: InfoMaxTrainer
+params:
+  # Number of latent dimensions
+  z_dim: 64
+
+  # Optimization parameters
+  optimizer_name: 'Adam'
+  encoder_lr: 0.0001
+  miest_lr: 0.0001

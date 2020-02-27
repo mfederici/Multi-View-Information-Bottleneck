@@ -1,0 +1,16 @@
+trainer: MIBTrainer
+params:
+  # Number of latent dimensions
+  z_dim: 64
+
+  # Optimization parameters
+  optimizer_name: 'Adam'
+  encoder_lr: 0.0001
+  miest_lr: 0.0001
+
+  # Parameters for the beta-scheduler
+  beta_start_value: 0.001
+  beta_end_value: 1
+  beta_n_iterations: 100000
+  beta_start_iteration: 50000
+
