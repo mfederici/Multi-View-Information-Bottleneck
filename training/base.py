@@ -104,7 +104,7 @@ class Trainer(nn.Module):
 
 
 ##########################
-# Representation Encoder #
+# Representation Trainer #
 ##########################
 
 # Generic class to train an model with a (stochastic) neural network encoder

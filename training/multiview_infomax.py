@@ -2,10 +2,10 @@ from training.base import RepresentationTrainer
 from utils.modules import MIEstimator
 
 
-
 ######################
 # MV InfoMax Trainer #
 ######################
+
 class MVInfoMaxTrainer(RepresentationTrainer):
     def __init__(self, miest_lr, **params):
         super(MVInfoMaxTrainer, self).__init__(**params)
