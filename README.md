@@ -5,6 +5,7 @@ PyTorch implementation of the Multi-View Information Bottleneck (MIB) model from
 ![Visualization of the MIB objective](images/MIB_model.png)
 
 Please read [our paper](https://arxiv.org/abs/2002.07017) for a more detailed description of the training procedure.
+Slides used for the ICLR 2020 poster session can be found [here](https://github.com/mfederici/Multi-View-Information-Bottleneck/blob/master/ICLR_2020_presentation.pdf)
 
 ### Bibtex
 Please use the following bibtex for citations:
