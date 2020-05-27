@@ -1,4 +1,4 @@
-name: mib2
+name: mib
 channels:
   - pytorch
   - defaults
